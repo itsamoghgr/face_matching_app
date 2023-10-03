@@ -1,9 +1,3 @@
-'''
-Author: Bappy Ahmed
-Email: entbappy73@gmail.com
-Date:12-Oct-2021
-'''
-
 from keras_vggface.utils import preprocess_input
 from keras_vggface.vggface import VGGFace
 from src.utils.all_utils import read_yaml, create_directory
@@ -102,7 +96,7 @@ def recommend(feature_list,features):
 
 
 # streamlit
-#st.title('Which Bollywood Celebrity You look like?')
+#st.title('Face Matching Application')
 st.title('To whom does your face match?')
 
 uploaded_image = st.file_uploader('Choose an image')
