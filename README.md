@@ -1,4 +1,4 @@
-# Project Name: Which Bollywood Celebrity You look like
+# Project Name: Face Matching Application
 
 A Deep learning based streamlit web app which can tell with which bollywood celebrity your face resembles.
 
@@ -13,21 +13,3 @@ This is a methods of identifying similar faces check various aspects on pictures
 
 # Dataset used:
 https://www.kaggle.com/sushilyadav1998/bollywood-celeb-localized-face-dataset
-
-
-# Some Real Time Demo:
-
-Web app look
-
-<img src="demo/1.png" alt="workflow" width="70%">
-
-Lets check some of images
-
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
-
-This really performing good you can consider by seeing this result 😀
-
-<img src="demo/4.png" alt="workflow" width="70%">
-
